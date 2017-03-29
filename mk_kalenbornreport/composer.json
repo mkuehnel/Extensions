@@ -1,0 +1,25 @@
+{
+  "name": "mkuehnel/mk-kalenbornreport",
+  "description": "Instance configuration of news extension for kalenborn",
+  "type": "typo3-cms-extension",
+  "version": "1.0.0",
+  "authors": [{
+    "name": "mkuehnel",
+    "email": "kontakt@moritz-kuehnel.de"
+  }],
+  "repositories": [{
+    "type": "composer",
+    "url": "https://composer.typo3.org/"
+  }, {
+    "type": "vcs",
+    "url": "git@github.com:mkuehnel/Extensions.git"
+  }],
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Mkuehnel\\MkKalenbornreport\\": "Classes"
+    }
+  }
+}

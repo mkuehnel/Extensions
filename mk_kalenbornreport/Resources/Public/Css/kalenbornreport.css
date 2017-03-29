@@ -1,0 +1,41 @@
+.kbreport-title {
+    display: inline-block;
+    margin: 0;
+    padding: 0.5em 1em;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #fff;
+    background: #2299cc;
+}
+.kbreport-header {
+    margin: 0 0 1em 0;
+    background: #eee;
+}
+
+.template__sidebar .news {
+    margin-bottom: 2em;
+}
+.template__sidebar .ce-textpic {
+    margin-bottom: 2em;
+}
+
+.kalenbornreport-list-view, .kalenbornreport-single {
+    font-size:90%;
+}
+.kalenbornreport-list-view .header {
+    font-weight: bold;
+    padding-top: 5px;
+}
+.kalenbornreport-list-view .footer {
+    font-size: 13px;
+}
+.kalenbornreport-list-view h3 {
+    text-align: left;
+}
+
+.kalenbornreport-single .article .ce-textpic {
+    margin-bottom: 0em;
+}
+

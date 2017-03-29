@@ -2,7 +2,7 @@
   "name": "mkuehnel/mk-kalenbornreport",
   "description": "Instance configuration of news extension for kalenborn",
   "type": "typo3-cms-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [{
     "name": "mkuehnel",
     "email": "kontakt@moritz-kuehnel.de"
